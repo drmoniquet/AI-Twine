@@ -1,0 +1,1 @@
+This project was created with the Toronto Metropolitan University's Center for Digital Humanities as a resource to help think through the ethical problems of AI. It uses Twine, and links up to a public Zotero bibliography. https://drmoniquet.github.io/AI-Twine/
